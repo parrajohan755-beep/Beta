@@ -1,0 +1,42 @@
+h1{color:rgb(128, 165, 42);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',Impact, Haettenschweiler, 'Arial Narrow Bold', sans-seri;
+font-style: italic;
+font-weight: 1000;
+}
+h2{color: rgb(245, 117, 234);
+font-family: Georgia, 'Times New Roman', Times, serif,'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: initial;
+font-weight: 300;
+}
+h3{color: #3e00b1;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-style: unset;
+font-weight: 600;
+}
+h4{color: aquamarine;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-style: oblique;
+font-weight: 500;
+}
+h5{color: blanchedalmond;
+font-family: 'Times New Roman', Times, serif;
+font-style: inherit;
+font-weight: 900;
+}
+h6{color: rgb(233, 233, 3);
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-style: unset;
+font-weight: 900;
+}
+body{
+    background-color: rgb(0, 255, 81);
+    background-image: linear-gradient(BLUE,YELLOW,GREEN);
+
+}
+p{
+font-family:courier ;
+color: rgb(244, 241, 247);
+font-style: normal;
+}
+h2{
+    color: rgb(230, 151, 54);
